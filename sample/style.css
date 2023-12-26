@@ -1,0 +1,33 @@
+/* styles.css */
+/* Basic styling */
+
+/* Header */
+header {
+  text-align: center;
+    padding: 20px 0;
+    }
+
+    .profile-photo img {
+      width: 200px; /* Adjust as needed */
+        height: 200px; /* Adjust as needed */
+          border-radius: 50%;
+            object-fit: cover;
+            }
+
+            /* Main sections */
+            main {
+              padding: 20px;
+              }
+
+              section {
+                margin-bottom: 30px;
+                }
+
+                h2 {
+                  margin-bottom: 10px;
+                  }
+
+                  /* Add your additional styling here */
+
+                  /* Responsive styles can be added to adjust for different screen sizes */
+                  
